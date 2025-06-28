@@ -177,15 +177,7 @@ dependencies {
 }
 ```
 
-## 🎨 **Screenshots**
 
-| Login Screen | Home Screen | OCR Results | Translation |
-|:------------:|:-----------:|:-----------:|:-----------:|
-| ![Login](https://via.placeholder.com/200x400/4285F4/FFFFFF?text=Login) | ![Home](https://via.placeholder.com/200x400/34A853/FFFFFF?text=Home) | ![OCR](https://via.placeholder.com/200x400/FBBC04/FFFFFF?text=OCR) | ![Translate](https://via.placeholder.com/200x400/EA4335/FFFFFF?text=Translate) |
-
-| History | Profile | Dark Mode | Settings |
-|:-------:|:-------:|:---------:|:--------:|
-| ![History](https://via.placeholder.com/200x400/9C27B0/FFFFFF?text=History) | ![Profile](https://via.placeholder.com/200x400/FF5722/FFFFFF?text=Profile) | ![Dark](https://via.placeholder.com/200x400/212121/FFFFFF?text=Dark+Mode) | ![Settings](https://via.placeholder.com/200x400/607D8B/FFFFFF?text=Settings) |
 
 ## 🌟 **Key Features Breakdown**
 
