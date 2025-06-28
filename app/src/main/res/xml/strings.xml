@@ -1,0 +1,33 @@
+
+<resources>
+<string name="app_name">Image to Text</string>
+
+<!-- Firebase Web Client ID -->
+<!-- Replace this with your actual Web Client ID from Firebase Console -->
+<string name="default_web_client_id">http://11060602251-hnskb2q37dfsj4ik838naj3leigq732p.apps.googleusercontent.com</string>
+
+<!-- Other strings -->
+<string name="login_title">Welcome Back!</string>
+<string name="login_subtitle">Sign in to continue using Image to Text</string>
+<string name="email_hint">Email Address</string>
+<string name="password_hint">Password</string>
+<string name="sign_in">Sign In</string>
+<string name="forgot_password">Forgot Password?</string>
+<string name="continue_with_google">Continue with Google</string>
+<string name="continue_with_github">Continue with GitHub</string>
+<string name="dont_have_account">Don\'t have an account?</string>
+<string name="sign_up">Sign Up</string>
+
+<!-- Error messages -->
+<string name="error_empty_fields">Please fill all fields</string>
+<string name="error_login_failed">Login Failed</string>
+<string name="success_login">Login Successful!</string>
+<string name="success_google_signin">Google Sign In Successful!</string>
+<string name="error_google_signin">Google Sign In Failed</string>
+<string name="error_auth_failed">Authentication Failed</string>
+<string name="password_reset_sent">Password reset email sent!</string>
+<string name="password_reset_failed">Failed to send reset email</string>
+<string name="enter_email_first">Please enter your email first</string>
+<string name="github_coming_soon">GitHub Sign In coming soon!</string>
+<string name="signup_coming_soon">Sign Up feature coming soon!</string>
+</resources>
